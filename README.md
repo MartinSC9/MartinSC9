@@ -61,6 +61,7 @@ Desarrollador Full Stack experimentado con pasión por crear soluciones digitale
 - 📧 **Email:** martin_contrera2000@hotmail.com
 - 📱 **Teléfono:** +54 9 351 267-0166
 - 💼 **LinkedIn:** [Santiago Martín Contrera](https://linkedin.com/in/santiago-martin-contrera)
+- 🌐 **Portfolio:** [martincontrera.dev](https://www.martincontrera.dev/)
 - 🌍 **Ubicación:** Argentina
 
 ---
